@@ -1,4 +1,4 @@
-#Si<plonLaxou2018
+#SimplonLaxou2018
 
 <! COMMANDES UTILES >
 
